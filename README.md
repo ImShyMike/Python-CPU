@@ -28,7 +28,7 @@
 
 ## Configuration
 The configuration file is located at `scr/config.json`. Default values:
-```json
+```jsonc
 {
     "display": true, // Toggle the display
     "printing": false, // Toggle the PRT instruction (prints numbers to console)
