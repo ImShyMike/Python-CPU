@@ -1,0 +1,20 @@
+{
+    "display": true,
+    "printing": false,
+    "record_timings": true,
+    "debug": true,
+    "text_debug": false,
+    "simple_debug": false,
+    "timing_graph": false,
+    "max_graph_points": 1000,
+    "pixel_scale": 1,
+    "display_width": 200,
+    "display_height": 200,
+    "bits": 32,
+    "register_count": 16,
+    "ram_size": 1024,
+    "stack_size": 1024,
+    "graph_update_frequency": 5,
+    "batch_size": 1000,
+    "window_update_interval": 200
+}

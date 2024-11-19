@@ -1,0 +1,4 @@
+[TYPECHECK]
+# Disable checks for pygame to avoid false positives
+ignored-modules=pygame
+generated-members=pygame.*

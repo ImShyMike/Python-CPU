@@ -1,0 +1,3 @@
+pygame # (optinal) needed for the display
+numpy # (optinal) needed for the display
+matplotlib # (optinal) needed for the debugger
